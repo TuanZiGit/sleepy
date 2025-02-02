@@ -1,9 +1,10 @@
 > [!NOTE]
 > 源项目地址：[wyf9/sleepy](https://github.com/wyf9/sleepy)
+> 模板项目地址：[Rinlit-233-shiroko/sleepy-fluent](https://github.com/Rinlit-233-shiroko/sleepy-fluent)
 
 # sleepy-nextgen 
 
-一个 ~~用于视奸~~ 查看个人（RinLit）在线状态 (以及正在使用软件) 的 Flask 网站，让他人能知道你不在而不是故意吊他/她
+一个 ~~用于视奸~~ 查看个人（tuanzi_awa）在线状态 (以及正在使用软件) 的 Flask 网站，让他人能知道你不在而不是故意吊他/她
 
 [**功能**](#功能) / [**TODO**](#todo) / [演示](#preview) / [**部署**](#部署) / [**使用**](#使用) / [**关于**](#关于)
 

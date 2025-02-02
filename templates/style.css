@@ -45,7 +45,7 @@ h2 {
 body {
     /* 背景图设置 */
     /*background: url('{{ bg }}') no-repeat left center fixed;*/
-    background: url('https://lwi.nexon.com/m_ba/brand/media/img_01.png') no-repeat 25% center fixed;
+    background: url('https://bing.img.run/rand.php') no-repeat left center fixed;
     background-size: cover;
     display: flex;
     justify-content: center;
